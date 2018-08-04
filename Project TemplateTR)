@@ -1,0 +1,20 @@
+Projenin Adı: Güneş Enerjili Tarım Otomasyonu
+
+Projenin Amacı:
+1) Günümüz şartlarında artan nüfus ile beraber meydana gelen yiyecek problemlerine cevap verebilmek için modüler taşınabilir ve tarıma uygun (uygun hale getirilebilen) alanlarda minimum harcama, kaynak ve iş gücüyle maksimum verim elde etme. 
+2) Hem üreticinin (yani modül yöneticisi veya sahipleri) hem de tüketicilerin ihtiyaçlarına zamanında karşılık verebilmek.
+
+Proje Detayları:
+1) Proje hali hazırda kullanılan tarım makine ve araçlarının yaptığı işlerin tamamını yapabilecek tarım modüllerini içermektedir.
+2) Ayrıca yapılan tarımda kullanılan yakıt ile çevre karbon salınımı yapılmaktadır.Bunun önüne geçebilmek için bitkiler için gerekli olan ve bedava enerji kaynağı olan güneş enerjisi kullanılacak. Böylece çevreye zarar vermeden tarım yapılabilecek.
+3) Ürünlerin ekim, hasat, sulama, bakım gibi tüm süreçleri önceden planlanarak (hava koşulları vs. analizleri uygun koşulların oluşturulup hazırlanması ve zamanlama) kontrollü bir şekilde yapılacak.
+4) Tüm bu süreçler Raspberry, Arduino gibi geliştirici kart ve çevre elemanlarının yardımıyla ana veri yönetim merkezi ve işlem biriminde toplanıp süreç için gerekli komutlar verilecek.
+
+Projenin Kazanımları ve Öngörülen Faydalar:
+
+1) Fosil yakıt tüketiminden uzak,temiz enerji kullanılacaktır!
+Böylece tarımsal ve ekonomik kalkınmanın yanında çevresel duyarlılık ile doğayı koruma ve gelecek kuşaklar için daha temiz bir çevre mirası bırakmak mümkün olacaktır.
+
+2) Fosil yakıtların artan maaliyetleri ve teminindeki zorluklardan uzak sürekli enerji kaynağı güneş enerjisi kullanılacaktır.
+
+3) Ürünlerin tüm süreçleri sürekli takip edilecek ve minimum kayıpla maksimum verim elde edilecek.
