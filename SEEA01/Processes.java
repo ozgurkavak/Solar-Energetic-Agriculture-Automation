@@ -11,9 +11,5 @@ public class Processes {
 	public int productHarvestTime;
 	
 	
-	
-	
-	
-	
 }
 
