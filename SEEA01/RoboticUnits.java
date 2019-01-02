@@ -5,6 +5,6 @@ public class RoboticUnits {
 	
 	public String unitFunction;
 	
-	int[][][] unitPosition;		// x,y,z positions: Field size and planting base positions for robotic units.
+	int[][][] unitPosition;		// x(width),y(length),z(depth) positions: Field size and planting base positions for robotic units.
 
 }
